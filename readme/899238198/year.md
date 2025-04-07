@@ -1,7 +1,7 @@
 ## [🔙 views_counter](https://github.com/blackcaer/views_counter)
 
-### :octocat: [blackcaer](https://github.com/blackcaer/blackcaer)
-![Image of views_counter](https://github.com/blackcaer/views_counter/blob/master/graph/962121040/large/year.png)
+### :octocat: [SkinLookup](https://github.com/blackcaer/SkinLookup)
+![Image of views_counter](https://github.com/blackcaer/views_counter/blob/master/graph/899238198/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>5</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of views_counter](https://github.com/blackcaer/views_counter/blob/master/svg/962121040/badge.svg)](https://github.com/blackcaer/views_counter/blob/master/readme/962121040/week.md)
+[![Image of views_counter](https://github.com/blackcaer/views_counter/blob/master/svg/899238198/badge.svg)](https://github.com/blackcaer/views_counter/blob/master/readme/899238198/week.md)
 ```readme
-[![Image of views_counter](https://github.com/blackcaer/views_counter/blob/master/svg/962121040/badge.svg)](https://github.com/blackcaer/views_counter/blob/master/readme/962121040/week.md)
+[![Image of views_counter](https://github.com/blackcaer/views_counter/blob/master/svg/899238198/badge.svg)](https://github.com/blackcaer/views_counter/blob/master/readme/899238198/week.md)
 ```
 ### Header
-# blackcaer [<img alt="Image of views_counter" src="https://github.com/blackcaer/views_counter/blob/master/graph/962121040/small/year.png" height="20">](https://github.com/blackcaer/views_counter/blob/master/readme/962121040/year.md)
+# SkinLookup [<img alt="Image of views_counter" src="https://github.com/blackcaer/views_counter/blob/master/graph/899238198/small/year.png" height="20">](https://github.com/blackcaer/views_counter/blob/master/readme/899238198/year.md)
 ```readme
-# blackcaer [<img alt="Image of views_counter" src="https://github.com/blackcaer/views_counter/blob/master/graph/962121040/small/year.png" height="20">](https://github.com/blackcaer/views_counter/blob/master/readme/962121040/year.md)
+# SkinLookup [<img alt="Image of views_counter" src="https://github.com/blackcaer/views_counter/blob/master/graph/899238198/small/year.png" height="20">](https://github.com/blackcaer/views_counter/blob/master/readme/899238198/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

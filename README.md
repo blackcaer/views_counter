@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/4 5:43 PM UTC
+			2025/4/5 5:43 PM UTC
 		</td>
 		<td>
 			0
@@ -35,9 +35,105 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/blackcaer/views_counter/raw/master/graph/962121040/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/blackcaer/views_counter/tree/master/readme/899238198/year.md">
+				SkinLookup
+			</a>
+		</td>
+		<td>
+			2025/4/4 5:47 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/blackcaer/views_counter/raw/master/graph/899238198/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/blackcaer/views_counter/tree/master/readme/884994133/year.md">
+				USOS_IO
+			</a>
+		</td>
+		<td>
+			2025/4/4 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/blackcaer/views_counter/raw/master/graph/884994133/small/year.png" height="20"> 13
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/blackcaer/views_counter/tree/master/readme/723676810/year.md">
+				Oblique-Throw-Simulation
+			</a>
+		</td>
+		<td>
+			2025/4/4 5:47 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/blackcaer/views_counter/raw/master/graph/723676810/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/blackcaer/views_counter/tree/master/readme/774604406/year.md">
+				RemoteBetter
+			</a>
+		</td>
+		<td>
+			2025/4/4 5:47 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/blackcaer/views_counter/raw/master/graph/774604406/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/blackcaer/views_counter/tree/master/readme/931715967/year.md">
+				Portfolio
+			</a>
+		</td>
+		<td>
+			2025/4/4 5:47 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/blackcaer/views_counter/raw/master/graph/931715967/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/blackcaer/views_counter/tree/master/readme/776598133/year.md">
+				SteamTradeHandler
+			</a>
+		</td>
+		<td>
+			2025/4/4 5:47 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/blackcaer/views_counter/raw/master/graph/776598133/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/7 5:44 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 5:48 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
