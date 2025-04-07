@@ -3,7 +3,14 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "blackcaer"
-
+    "blackcaer",
+    "SkinLookup",
+    "USOS_IO",
+    "Oblique-Throw-Simulation",
+    "RemoteBetter",
+    "Portfolio",
+    "SteamTradeHandler",
+    "SMH-Hackathon-2025",
+    "DROPTABLEDRUZYNY/SMH-Hackathon-2025"
   ]
 }
